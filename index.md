@@ -1,5 +1,6 @@
 Hi hello welcome
-![This is an Image](https://glassartstories.com/cdn/shop/products/DSC00483-1_1400x.jpg?v=1677016582)
+![image!](https://github.com/mialyssa/cse-110/assets/97639434/a4af1b5e-ef3e-42b6-b1dc-5ac2b3fb7043)
+![image](https://github.com/mialyssa/cse-110/assets/97639434/4a672639-8bb7-43d9-94d9-f3bc348a427f)
 
 # heading one
 ## heading two
@@ -23,7 +24,7 @@ Quoting code
 
 `Inline code` using backticks
 
-[This is a link](https://youtu.be/dQw4w9WgXcQ)
+[This is a link!](https://youtu.be/dQw4w9WgXcQ)
 
 [Section Link!](https://github.com/mialyssa/cse-110/#heading-one)
 
