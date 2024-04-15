@@ -1,6 +1,5 @@
 Hi hello welcome
-![image!](https://github.com/mialyssa/cse-110/assets/97639434/a4af1b5e-ef3e-42b6-b1dc-5ac2b3fb7043)
-![image](https://github.com/mialyssa/cse-110/assets/97639434/4a672639-8bb7-43d9-94d9-f3bc348a427f)
+![image](https://github.com/mialyssa/cse-110/assets/97639434/0cc1ef0d-64a0-4dca-b280-01c9269359a9)
 
 # heading one
 ## heading two
