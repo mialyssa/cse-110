@@ -24,7 +24,8 @@ Quoting code
 `Inline code` using backticks
 
 [This is a link](https://youtu.be/dQw4w9WgXcQ)
-[Section Link!](https://github.com/mialyssa/cse-110/edit/main/index.md#heading-one)
+
+[Section Link!](https://github.com/mialyssa/cse-110/#heading-one)
 
 * List 1
 * List 2
@@ -34,5 +35,5 @@ Quoting code
 2. Two
 3. Three
 
-- [x] Task List
-- [ ] Task List 2
+[x] Task List
+[ ] Task List 2
